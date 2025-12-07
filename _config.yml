@@ -26,9 +26,9 @@ author:
   avatar           : "SoniaChernova.png"
   name             : "Sonia Chernova"
   pronouns         : "she/her"  
-  #bio              : "Short biography for the left-hand sidebar"
+  bio              : "Associate Professor in Interactive Computing at Georgia Tech"
   #location         : "Atlanta, GA"
-  employer         : "Georgia Tech"
+  #employer         : "Georgia Tech"
   #uri              : # URL
   email            : "chernova@gatech.edu" 
 
