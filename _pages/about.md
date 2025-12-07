@@ -17,7 +17,7 @@ Beyond my research, I serve as Senior Editor for IEEE Transactions on Human-Robo
 
 Here is a copy of a faily recent CV.
 
-#Teaching
+## Teaching
 ------
 Below is a list of recent courses I teach. For each active course, I host core course materials, assignments, and announcements on Canvas, which is only accessible to enrolled students. The links below lead to past syllabi for general reference, course materials evolve from year to year.
 
@@ -25,7 +25,7 @@ Below is a list of recent courses I teach. For each active course, I host core c
 - [CS 7633 Human-Robot Interaction]
 - [CS 8803 Explainable AI]
 
-#Incoming Students
+## Incoming Students
 ------
 I am looking to hire one PhD student in Fall 2026 in the areas of task and motion planning, robot learning and/or explainable AI.
 
