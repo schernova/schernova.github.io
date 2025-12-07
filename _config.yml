@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Sonia Chernova"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Sonia Chernova"
 description              : &description "Sonia Chernova's Homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
