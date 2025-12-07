@@ -15,10 +15,9 @@ I also serve as Executive Director and Principal Investigator of [AI-CARING](htt
 
 Beyond my research, I serve as Senior Editor for IEEE Transactions on Human-Robot Interaction (THRI) and IEEE Robotics and Automation Letters (RA-L), am a member of the Board of Directors for the Conference on Robot Learning (CoRL), and served on the Senior Program Committee for ICRA 2025. In 2026, I also hold the role as Interim Associate Director of Georgia Tech’s [Institute for Robotics and Intelligent Machines (IRIM)](https://research.gatech.edu/robotics).
 
-Here is a copy of a faily recent CV.
+Here is a copy of a faily [recent CV].
 
 ## Teaching
-------
 Below is a list of recent courses I teach. For each active course, I host core course materials, assignments, and announcements on Canvas, which is only accessible to enrolled students. The links below lead to past syllabi for general reference, course materials evolve from year to year.
 
 - [CS 3630 Introduction to Robotics and Perception]
@@ -26,6 +25,5 @@ Below is a list of recent courses I teach. For each active course, I host core c
 - [CS 8803 Explainable AI]
 
 ## Incoming Students
-------
 I am looking to hire one PhD student in Fall 2026 in the areas of task and motion planning, robot learning and/or explainable AI.
 
