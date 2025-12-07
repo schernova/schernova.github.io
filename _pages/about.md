@@ -9,35 +9,23 @@ redirect_from:
 
 My research and teaching interests lie at the intersection of robotics, machine learning, human–robot interaction, and explainable AI. I am particularly interested in how intelligent robotic systems can operate robustly and transparently in complex, human-centered environments.
 
-I direct the [Robot Autonomy and Interactive Learning (RAIL) Lab](https://rail.gatech.edu/), where we develop algorithms and systems that enable robots to act autonomously over long time horizons, reason under uncertainty, and interact effectively with people. Our work spans robot planning and learning, perception in unstructured environments, multi-robot coordination, and human-aware decision-making, with an emphasis on building systems that are interpretable, adaptive, and deployable outside of highly controlled settings. Please visit the RAIL Lab website or Google Scholar for descriptions of our ongoing and recent projects.
+I direct the [Robot Autonomy and Interactive Learning (RAIL) Lab](https://rail.gatech.edu/), where we develop algorithms and systems that enable robots to act autonomously over long time horizons, reason under uncertainty, and interact effectively with people. Our work spans robot planning and learning, multi-robot coordination, and human-aware decision-making, with an emphasis on building systems that are interpretable, adaptive, and deployable outside of highly controlled settings. Please visit the RAIL Lab website or [Google Scholar](https://scholar.google.com/citations?user=EYo_WkEAAAAJ&hl=en) for descriptions of our ongoing and recent projects.
 
-I also serve as Executive Director and Principal Investigator of the NSF AI Institute for Collaborative Assistance and Responsive Interaction for Networked Groups (AI-CARING). AI-CARING’s mission is to develop the next generation of personalized, collaborative AI systems that support aging adults living independently at home. The Institute brings together researchers across AI, robotics, human–computer interaction, ethics, and the social sciences to develop foundational technologies, evaluation frameworks, and deployment methodologies that emphasize trust, transparency, and real-world impact.
+I also serve as Executive Director and Principal Investigator of [AI-CARING](https://ai-caring.org/), and NSF National AI Institute who's mission is to develop the next generation of personalized, collaborative AI systems that support aging adults living independently at home. The Institute brings together researchers across AI, robotics, human–computer interaction, ethics, and the social sciences to develop foundational technologies, evaluation frameworks, and deployment methodologies that emphasize trust, transparency, and real-world impact.
 
-In addition to my research, I contribute to the broader robotics community through professional service. I serve as Senior Editor for IEEE Transactions on Human-Robot Interaction (THRI) and IEEE Robotics and Automation Letters (RA-L) (HRI area), am a member of the Board of Directors for the Conference on Robot Learning (CoRL), and serve on the Senior Program Committee for ICRA 2025. In 2026, I also serve as Interim Associate Director of Georgia Tech’s Institute for Robotics and Intelligent Machines (IRIM).
+Beyond my research, I serve as Senior Editor for IEEE Transactions on Human-Robot Interaction (THRI) and IEEE Robotics and Automation Letters (RA-L), am a member of the Board of Directors for the Conference on Robot Learning (CoRL), and served on the Senior Program Committee for ICRA 2025. In 2026, I also hold the role as Interim Associate Director of Georgia Tech’s [Institute for Robotics and Intelligent Machines (IRIM)](https://research.gatech.edu/robotics).
 
 Here is a copy of a faily recent CV.
 
-**Research Topics**
+#Teaching
+------
+Below is a list of recent courses I teach. For each active course, I host core course materials, assignments, and announcements on Canvas, which is only accessible to enrolled students. The links below lead to past syllabi for general reference, course materials evolve from year to year.
 
-**Teaching**
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- [CS 3630 Introduction to Robotics and Perception]
+- [CS 7633 Human-Robot Interaction]
+- [CS 8803 Explainable AI]
 
-**Incoming Students**
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-
-
-#For those users that need more advanced functionality, the template also supports the following popular tools:
-#- [MathJax](https://www.mathjax.org/) for mathematical equations
-#- [Mermaid](https://mermaid.js.org/) for diagraming
-#- [Plotly](https://plotly.com/javascript/) for plotting
-
-#Getting started   #largest
-#======
-
-#Site-wide configuration   #medium
-#------
-
-# **Markdown generator** #smallest
-
+#Incoming Students
+------
+I am looking to hire one PhD student in Fall 2026 in the areas of task and motion planning, robot learning and/or explainable AI.
 
