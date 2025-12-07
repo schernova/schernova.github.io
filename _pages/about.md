@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in the School of Interactive Computing at Georgia Tech. I direct the Robot Autonomy and Interactive Learning (RAIL) lab, where we work on developing robots that are able to effectively operate in human environments. My research interests span robotics and artificial intelligence, including semantic reasoning, adaptive autonomy, human-robot interaction and explainable AI. Please visit the RAIL lab website for a description of our latest projects.
+My research and teaching interests lie at the intersection of robotics, machine learning, human–robot interaction, and explainable AI. I am particularly interested in how intelligent robotic systems can operate robustly and transparently in complex, human-centered environments.
 
-I also serve as the lead for the NSF AI Institute for Collaborative Assistance and Responsive Interaction for Networked Groups (AI-CARING), whose mission is to develop the next generation of personalized collaborative AI systems that improve the quality of life and independence of aging adults living at home.
+I direct the [Robot Autonomy and Interactive Learning (RAIL) Lab](https://rail.gatech.edu/), where we develop algorithms and systems that enable robots to act autonomously over long time horizons, reason under uncertainty, and interact effectively with people. Our work spans robot planning and learning, perception in unstructured environments, multi-robot coordination, and human-aware decision-making, with an emphasis on building systems that are interpretable, adaptive, and deployable outside of highly controlled settings. Please visit the RAIL Lab website or Google Scholar for descriptions of our ongoing and recent projects.
+
+I also serve as Executive Director and Principal Investigator of the NSF AI Institute for Collaborative Assistance and Responsive Interaction for Networked Groups (AI-CARING). AI-CARING’s mission is to develop the next generation of personalized, collaborative AI systems that support aging adults living independently at home. The Institute brings together researchers across AI, robotics, human–computer interaction, ethics, and the social sciences to develop foundational technologies, evaluation frameworks, and deployment methodologies that emphasize trust, transparency, and real-world impact.
+
+In addition to my research, I contribute to the broader robotics community through professional service. I serve as Senior Editor for IEEE Transactions on Human-Robot Interaction (THRI) and IEEE Robotics and Automation Letters (RA-L) (HRI area), am a member of the Board of Directors for the Conference on Robot Learning (CoRL), and serve on the Senior Program Committee for ICRA 2025. In 2026, I also serve as Interim Associate Director of Georgia Tech’s Institute for Robotics and Intelligent Machines (IRIM).
 
 Here is a copy of a faily recent CV.
 
