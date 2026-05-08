@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research and teaching interests lie at the intersection of robotics, machine learning, human–robot interaction, and explainable AI. I am particularly interested in how intelligent robotic systems can operate robustly and transparently in complex, human-centered environments.
+My work lies at the intersection of robotics, machine learning, human–robot interaction, and explainable AI. I am particularly interested in how intelligent robotic systems can operate robustly and transparently in complex, human-centered environments.
 
 I direct the [Robot Autonomy and Interactive Learning (RAIL) Lab](https://gt-rail.com), where we develop algorithms and systems that enable robots to act autonomously over long time horizons, reason under uncertainty, and interact effectively with people. Our work spans robot planning and learning, multi-robot coordination, and human-aware decision-making, with an emphasis on building systems that are interpretable, adaptive, and deployable outside of highly controlled settings. Please visit the [RAIL Lab website](http://gt-rail.com) or [Google Scholar](https://scholar.google.com/citations?user=EYo_WkEAAAAJ&hl=en) for descriptions of our ongoing and recent projects.
 
