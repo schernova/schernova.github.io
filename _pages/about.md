@@ -9,7 +9,7 @@ redirect_from:
 
 My work lies at the intersection of robotics, machine learning, human–robot interaction, and explainable AI. I am particularly interested in how intelligent robotic systems can operate robustly and transparently in complex, human-centered environments.
 
-<img src="{{ site.baseurl }}/files/sawyer.jpg" alt="Profile" style="float: left; margin-right: 20px; margin-bottom: 10px; max-width: 40%; height: auto;">
+<img src="{{ site.baseurl }}/files/sawyer.jpg" alt="Profile" style="float: right; margin-right: 20px; margin-bottom: 10px; max-width: 40%; height: auto;">
 
 I direct the [Robot Autonomy and Interactive Learning (RAIL) Lab](https://gt-rail.com), where we develop algorithms and systems that enable robots to act autonomously over long time horizons, reason under uncertainty, and interact effectively with people. Our work spans robot planning and learning, multi-robot coordination, and human-aware decision-making, with an emphasis on building systems that are interpretable, adaptive, and deployable outside of highly controlled settings. Please visit the [RAIL Lab website](http://gt-rail.com) or [Google Scholar](https://scholar.google.com/citations?user=EYo_WkEAAAAJ&hl=en) for descriptions of our ongoing and recent projects.
 
