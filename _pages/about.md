@@ -23,12 +23,11 @@ Beyond my research, I serve as Senior Editor for [IEEE Transactions on Human-Rob
 Here is a copy of a faily [recent CV](files/CV_SoniaChernova.pdf).
 
 ### Teaching
-Below is a list of recent courses I teach. For each active course, I host core course materials, assignments, and announcements on Canvas, which is only accessible to enrolled students. The links below lead to past syllabi for general reference, course materials evolve from year to year.
+Below are copies of syllabi for recent courses. For each active course, I host core course materials, assignments, and announcements on Canvas, which is only accessible to enrolled students. The links below lead to past syllabi for general reference, course materials evolve from year to year.
 
 - [CS 3630 Introduction to Robotics and Perception](files/CS3630_IntroToRobotics_Syllabus.pdf)
 - [CS 7633 Human-Robot Interaction](files/CS7644_HRI_Syllabus.pdf)
-- [CS 8803 Explainable AI](files/CS8803_XAI_Syllabus.pdf)
 
 ### Incoming Students
-For MS students interested in research and capstone projects, we typically onboard new students in early August.  Please reach out over email in late July or early August and I will have a list of projects that are recruiting in the areas of task and motion planning, robot learning and/or explainable AI.
+For MS students interested in research and capstone projects, we typically onboard new students in early August.  Please reach out over email in late July or early August for a list of open projects
 
