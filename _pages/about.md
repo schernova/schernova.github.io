@@ -26,7 +26,7 @@ Here is a copy of a faily [recent CV](files/CV_SoniaChernova.pdf).
 Below are copies of syllabi for recent courses. For each active course, I host core course materials, assignments, and announcements on Canvas, which is only accessible to enrolled students. The links below lead to past syllabi for general reference, course materials evolve from year to year.
 
 - [CS 3630 Introduction to Robotics and Perception](files/CS3630_IntroToRobotics_Syllabus.pdf)
-- [CS 7633 Human-Robot Interaction](files/CS7644_HRI_Syllabus.pdf)
+- [CS 7633 Human-Robot Interaction](files/CS7633_HRI_Syllabus.pdf)
 
 ### Incoming Students
 For MS students interested in research and capstone projects, we typically onboard new students in early August.  Please reach out over email in late July or early August for a list of open projects
