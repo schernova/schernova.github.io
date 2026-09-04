@@ -29,5 +29,6 @@ Below are copies of syllabi for recent courses. For each active course, I host c
 - [CS 7633 Human-Robot Interaction](files/CS7633_HRI_Syllabus.pdf)
 
 ### Incoming Students
-For MS students interested in research and capstone projects, we typically onboard new students in early August.  Please reach out over email in late July or early August for a list of open projects
+Georgia Tech MS students interested in research and capstone projects: we typically onboard new students in early August, please reach out over email in late July or early August for a list of open projects.
 
+Prospective PhD students: please don't send me email notifying me that you're planning to apply, due to the volume of daily messages I neither read or respond to such emails. I look forward to reviewing your application once it is submitted.
